@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\bin\Debug\Chuong4_Part1_BaiTap1.exe
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\bin\Debug\Chuong4_Part1_BaiTap1.pdb
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.FrmMain.resources
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.Properties.Resources.resources
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.TinhTong_BT1.resources
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.exe
+C:\Users\admin\Desktop\VDC#\Chuong4_Part1_BaiTap1\obj\Debug\Chuong4_Part1_BaiTap1.pdb
